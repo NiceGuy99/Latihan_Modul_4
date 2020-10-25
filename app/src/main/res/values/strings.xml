@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Latihan Praktikum 3</string>
+    <string name="harga_barang">Harga </string>
+    <string name="nama_barang">Nama </string>
+    <string name="masukkan_jumlah_barang">masukkan jumlah obat</string>
+    <string name="masukkan_harga_barang">masukkan harga obat</string>
+    <string name="jumlah_barang">Jumlah</string>
+    <string name="input_data_barang">Input Data Obat</string>
+    <string name="muhammad_yusuf_ardiansyah">Muhammad Yusuf Ardiansyah</string>
+    <string name="_18082010001">18082010001</string>
+    <string name="sistem_informasi_18_upn_veteran_jatim">Sistem Informasi 18 UPN Veteran Jatim</string>
+    <string name="hapus">hapus</string>
+    <string name="input">input</string>
+    <string name="masukkan_nama_barang">masukkan nama obat</string>
+    <string name="harus_dengan_resep_dokter">Harus dengan resep dokter</string>
+    <string name="cetak_bukti_input">Cetak bukti input</string>
+    <string name="obat"> </string>
+    <string name="jenis">Jenis</string>
+    <string name="sirup">Sirup</string>
+    <string name="kapsul">Kapsul</string>
+</resources>
